@@ -18,9 +18,3 @@ This repository contains a data analysis report exploring trends in baby name po
 - Certain names peak in popularity due to celebrity influence.  
 - Generational shifts impact naming trends significantly.  
 - Some names have consistent popularity, while others are highly volatile.  
-
-## 🚀 Getting Started  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
