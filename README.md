@@ -11,7 +11,8 @@ This repository contains a data analysis report exploring trends in baby name po
 ## 📂 Repository Structure  
 - `names.zip` – Contains datasets used for analysis 
 - `Baby_name_us.ipynb` – Jupyter notebooks with analysis and visualizations  
-- `Baby Name Popularity Trends & Celebrity Influence.pdf` – Final analysis report summarizing key findings  
+- `Baby Name Popularity Trends & Celebrity Influence.pdf` – Final analysis report summarizing key findings
+- `environment.yml` – Holds all the required dependencies and packages for the project  
 - `README.md` – This file  
 
 ## 📈 Key Insights  
